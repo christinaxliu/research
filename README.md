@@ -1,2 +1,2 @@
 # research
-# This is the repository that contains code (including Google Colab notebook) for research. 
+This repository contains source code (including Google Colab notebook) for research projects and work. 
