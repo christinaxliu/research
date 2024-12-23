@@ -1,12 +1,12 @@
 # research
-This repository contains source code (including Google Colab notebooks) for research projects and work.
+This repository contains the source code (including the Google Colab notebooks) for my research projects and work.
 
-At the moment, it mainly contains the work during the summer research internship and year long research program with Jet Propulsion Laboratory (JPL), California Institute of Technology on the following topics:
+At this moment, it mainly contains my work during my summer research internship and year-long research program with Jet Propulsion Laboratory (JPL), California Institute of Technology on the following topics:
 - Exoplanet classification
 - Exoplanet habitabiliy analysis
 - Exoplanet habitability classifiers (KNN, Random Forest, XGBoost, Neural Networks)
 
-Our research findings have been published at Galaxies Journal on Dec 3rd, 2024
+Our research findings have been published at Galaxies Journal on Dec 3rd, 2024:
 - Jiang, Jonathan H., Philip E. Rosen, Christina X. Liu, Qianzhuang Wen, and Yanbei Chen. 2024. ***Analysis of Habitability and Stellar Habitable Zones from Observed Exoplanets***. Galaxies 12, no. 6: 86. https://doi.org/10.3390/galaxies12060086
 - The source code for the Random Forest and XGBoost classifiers can be found at: https://github.com/christinaxliu/research/tree/main/JPL-Caltech/GalaxiesPaper2024/HabitableExoplanetClassifiers .
   Below is the feature importance for the Random Forest classifier:
