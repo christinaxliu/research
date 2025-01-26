@@ -1,7 +1,7 @@
 # research
 This git repository contains the source code (including the Google Colab notebooks) for my research projects and work.
 
-At this moment, it mainly contains my work during my summer research internship and year-long research program with Jet Propulsion Laboratory (JPL), California Institute of Technology in which I applied data science and machine learning (KNN, Random Forest, XGBoost, Neural Networks) on the following research topics:
+At this moment, it mainly contains my work during my summer research internship and year-long research program with Jet Propulsion Laboratory (JPL), California Institute of Technology (sponsored by NASA) in which I applied data science and machine learning (KNN, Random Forest, XGBoost, Neural Networks) on the following research topics:
 - Exoplanet classification
 - Exoplanet habitability analysis & prediction
 
