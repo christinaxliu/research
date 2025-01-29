@@ -22,5 +22,5 @@ Our research findings have been published at Galaxies Journal on Dec 3rd, 2024:
 - The source code for the "Host Star Effective Temperature vs. Exoplanet Surface Temperature" figure can be found at: https://github.com/christinaxliu/research/tree/main/JPL-Caltech/GalaxiesPaper2024/StarTempVsExoplanetSurfTempGraph
   ![Figure11](https://github.com/user-attachments/assets/6d294515-3356-4d7a-84c5-326ff615c151)
 
-### CSRSE (https://github.com/christinaxliu/research/tree/main/CSRSEF)
+### CSRSEF (https://github.com/christinaxliu/research/tree/main/CSRSEF)
 I am currently working a research project - An Analysis of Exoplanet Habitability and Most Influential Stellar and Planetary Parameters to Habitability through the Lens of Machine Learning.
