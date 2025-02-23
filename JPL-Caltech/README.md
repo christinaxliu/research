@@ -2,7 +2,7 @@
 This git repository contains the source code (including the Google Colab notebooks) for my research projects and work during my summer research internship and year-long research program with Jet Propulsion Laboratory (JPL), California Institute of Technology (sponsored by NASA) in which I applied data science and machine learning (KNN, Random Forest, XGBoost, Neural Networks) on the following research topics:
 - Exoplanet classification
 - Exoplanet habitability analysis & prediction
-- Stellar System classification
+- Planetary System classification
 
 Our research findings have been published at Galaxies Journal on Dec 3rd, 2024:
 - Jiang, Jonathan H., Philip E. Rosen, Christina X. Liu, Qianzhuang Wen, and Yanbei Chen. 2024. ***Analysis of Habitability and Stellar Habitable Zones from Observed Exoplanets***. Galaxies 12, no. 6: 86. https://doi.org/10.3390/galaxies12060086
