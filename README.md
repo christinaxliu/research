@@ -9,6 +9,7 @@ At this moment, it contains:
 For my research at JPL, Caltech, I applied data science and machine learning (KNN, Random Forest, XGBoost, Neural Networks) on the following research topics:
 - Exoplanet classification
 - Exoplanet habitability analysis & prediction
+- Analysis of influential stellar and planetary parameters to habitability through machine learning
 - Stellar System classification
 
 Our research findings have been published at Galaxies Journal on Dec 3rd, 2024:
@@ -22,5 +23,11 @@ Our research findings have been published at Galaxies Journal on Dec 3rd, 2024:
 - The source code for the "Host Star Effective Temperature vs. Exoplanet Surface Temperature" figure can be found at: https://github.com/christinaxliu/research/tree/main/JPL-Caltech/GalaxiesPaper2024/StarTempVsExoplanetSurfTempGraph
   ![Figure11](https://github.com/user-attachments/assets/6d294515-3356-4d7a-84c5-326ff615c151)
 
+Analysis of influential stellar and planetary parameters to habitability through the lens of machine learning:
+![An Analysis of Exoplanet Habitability and Most Influential Stellar and Planetary Parameters to Habitability through the Lens of Machine Learning](https://github.com/user-attachments/assets/08958d8d-9c86-428a-be37-98eb4e864a2f)
+
+Revisiting Seager’s 2013 Habitability Diagram with 2025 Data:
+![RevisitingSeagerFigure](https://github.com/user-attachments/assets/1347ab46-2fb5-4140-814b-e8c392cc8879)
+
 ### CSRSEF (https://github.com/christinaxliu/research/tree/main/CSRSEF)
-I am currently working a research project - An Analysis of Exoplanet Habitability and Most Influential Stellar and Planetary Parameters to Habitability through the Lens of Machine Learning.
+I am working on participating in the CSRSEF with part of my research project at JPL - An Analysis of Exoplanet Habitability and Most Influential Stellar and Planetary Parameters to Habitability through the Lens of Machine Learning.
