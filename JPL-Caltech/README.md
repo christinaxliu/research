@@ -2,6 +2,7 @@
 This git repository contains the source code (including the Google Colab notebooks) for my research projects and work during my summer research internship and year-long research program with Jet Propulsion Laboratory (JPL), California Institute of Technology (sponsored by NASA) in which I applied data science and machine learning (KNN, Random Forest, XGBoost, Neural Networks) on the following research topics:
 - Exoplanet classification
 - Exoplanet habitability analysis & prediction
+- Analysis of influential stellar and planetary parameters to habitability through machine learning
 - Planetary System classification
 
 Our research findings have been published at Galaxies Journal on Dec 3rd, 2024:
@@ -14,3 +15,6 @@ Our research findings have been published at Galaxies Journal on Dec 3rd, 2024:
 
 - The source code for the "Host Star Effective Temperature vs. Exoplanet Surface Temperature" figure can be found at: https://github.com/christinaxliu/research/tree/main/JPL-Caltech/GalaxiesPaper2024/StarTempVsExoplanetSurfTempGraph
   ![Figure11](https://github.com/user-attachments/assets/6d294515-3356-4d7a-84c5-326ff615c151)
+
+Analysis of influential stellar and planetary parameters to habitability through the lens of machine learning:
+![An Analysis of Exoplanet Habitability and Most Influential Stellar and Planetary Parameters to Habitability through the Lens of Machine Learning](https://github.com/user-attachments/assets/9c340027-56ca-41c9-b136-5a8dabd58ef3)
