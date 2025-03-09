@@ -3,7 +3,7 @@ This git repository contains the source code (including the Google Colab noteboo
 
 At this moment, it contains:
 - Research during summer research internship and year-long research program with the **Jet Propulsion Laboratory (JPL) @ California Institute of Technology**, sponsored by NASA (https://www.caltech.edu/research/jpl).
-- Research project for participating in the **Central Sound Regional Science and Engineering Fair** (CSRSE https://centralsoundfair.org/), a regional science & engineering fair towards the Regeneron International Science and Engineering Fair (ISEF).
+- Research project for participating in the **Central Sound Regional Science and Engineering Fair** (CSRSE https://centralsoundfair.org/).
 
 ### JPL, Caltech (https://github.com/christinaxliu/research/tree/main/JPL-Caltech)
 For my research at JPL, Caltech, I applied data science and machine learning (KNN, Random Forest, XGBoost, Neural Networks) on the following research topics:
