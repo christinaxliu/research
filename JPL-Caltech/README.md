@@ -20,4 +20,4 @@ Analysis of influential stellar and planetary parameters to habitability through
 ![An Analysis of Exoplanet Habitability and Most Influential Stellar and Planetary Parameters to Habitability through the Lens of Machine Learning](https://github.com/user-attachments/assets/9c340027-56ca-41c9-b136-5a8dabd58ef3)
 
 Revisiting Seager’s 2013 Habitability Diagram with 2025 Data:
-![StellarMassVsPlanetOrbit](https://github.com/user-attachments/assets/92a11b5b-ff0f-4759-a164-2456b2a38753)
+![RevisitingSeagerFigure](https://github.com/user-attachments/assets/bb0945d5-62d1-49b2-b71f-cda28b5d64dd)
