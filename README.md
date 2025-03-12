@@ -24,7 +24,8 @@ Our research findings have been published at Galaxies Journal on Dec 3rd, 2024:
   ![Figure11](https://github.com/user-attachments/assets/6d294515-3356-4d7a-84c5-326ff615c151)
 
 Analysis of influential stellar and planetary parameters to habitability through the lens of machine learning:
-![An Analysis of Exoplanet Habitability and Most Influential Stellar and Planetary Parameters to Habitability through the Lens of Machine Learning](https://github.com/user-attachments/assets/08958d8d-9c86-428a-be37-98eb4e864a2f)
+![An Analysis of Exoplanet Habitability and Most Influential Stellar and Planetary Parameters to Habitability through the Lens of Machine Learning]
+![Poster](https://github.com/user-attachments/assets/5431f7a0-b22d-44db-b5a6-26d7525cb22d)
 
 Revisiting Seager’s 2013 Habitability Diagram with 2025 Data:
 ![RevisitingSeagerFigure](https://github.com/user-attachments/assets/1347ab46-2fb5-4140-814b-e8c392cc8879)
