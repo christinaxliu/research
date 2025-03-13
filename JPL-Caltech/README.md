@@ -1,5 +1,5 @@
 # research/JPL-Caltech
-This git repository contains the source code (including the Google Colab notebooks) for my research projects and work during my summer research internship and year-long research program with Jet Propulsion Laboratory (JPL), California Institute of Technology (sponsored by NASA) in which I applied data science and machine learning (KNN, Random Forest, XGBoost, Neural Networks) on the following research topics:
+This git repository contains the source code for my research projects and work during my summer research internship and year-long research program with Jet Propulsion Laboratory (JPL), California Institute of Technology (sponsored by NASA) in which I applied data science and machine learning (KNN, Random Forest, XGBoost, Neural Networks) on the following research topics:
 - Exoplanet classification
 - Exoplanet habitability analysis & prediction
 - Analysis of stellar and planetary parameters that influence habitability
