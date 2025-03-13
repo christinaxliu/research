@@ -1,5 +1,5 @@
 # research
-This git repository contains the source code (including the Google Colab notebooks) for my research projects and work.
+This git repository contains the source code for my research projects and work.
 
 At this moment, it contains:
 - Research during summer research internship and year-long research program with the **Jet Propulsion Laboratory (JPL) @ California Institute of Technology**, sponsored by NASA (https://www.caltech.edu/research/jpl).
