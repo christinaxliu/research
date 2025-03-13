@@ -5,6 +5,7 @@ At this moment, it contains:
 - Research during summer research internship and year-long research program with the **Jet Propulsion Laboratory (JPL) @ California Institute of Technology**, sponsored by NASA (https://www.caltech.edu/research/jpl).
 - Research project for participating in the **Central Sound Regional Science and Engineering Fair** (CSRSE https://centralsoundfair.org/) and **Washington State Science and Engineering Fair** (WSSE https://wssef.org/).
 
+
 ### JPL, Caltech (https://github.com/christinaxliu/research/tree/main/JPL-Caltech)
 For my research at JPL, Caltech, I applied data science and machine learning (KNN, Random Forest, XGBoost, Neural Networks) on the following research topics:
 - Exoplanet classification
@@ -26,7 +27,9 @@ Our research findings have been published at Galaxies Journal on Dec 3rd, 2024:
 
 A short paper - Revisiting Seager’s 2013 Habitability Diagram with 2025 Data (https://github.com/christinaxliu/research/blob/main/JPL-Caltech/Paper2025/Revisiting%20Seager%E2%80%99s%202013%20Habitability%20Diagram%20with%202025%20Data.pdf) has been submitted for peer review:
 - The source code for the "Single Host Star Mass vs. Exoplanet Orbit Semi-Major Axis" figure can be found at: https://github.com/christinaxliu/research/blob/main/JPL-Caltech/Paper2025/StellarMassVsPlanetOrbit_SingleHost.ipynb
-![RevisitingSeagerFigure](https://github.com/user-attachments/assets/1347ab46-2fb5-4140-814b-e8c392cc8879)
+![StellarMassVsPlanetOrbit](https://github.com/user-attachments/assets/64d201dc-6c91-4516-910c-e8ce126b1c79)
+![Figure1_Description](https://github.com/user-attachments/assets/e8db9c5b-c092-4f74-8d67-b2a3ec40f2ce)
+
 
 ### CSRSEF (https://github.com/christinaxliu/research/tree/main/CSRSEF)
 ### WSSEF (https://github.com/christinaxliu/research/tree/main/WSSEF)
