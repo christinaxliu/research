@@ -17,7 +17,8 @@ The source code for my research work can be found at: https://github.com/christi
 Our research findings have been published at Galaxies Journal on Dec 3rd, 2024:
 - Jiang, Jonathan H., Philip E. Rosen, Christina X. Liu, Qianzhuang Wen, and Yanbei Chen. 2024. ***Analysis of Habitability and Stellar Habitable Zones from Observed Exoplanets***. Galaxies 12, no. 6: 86. https://doi.org/10.3390/galaxies12060086
 - The source code for the "Host Star Effective Temperature vs. Exoplanet Surface Temperature" figure can be found at: https://github.com/christinaxliu/research/tree/main/JPL-Caltech/GalaxiesPaper2024/StarTempVsExoplanetSurfTempGraph
- ![Figure11_with_Description](https://github.com/user-attachments/assets/16d3e334-04f6-4012-932b-f7dd877ccbfd)
+![Figure11](https://github.com/user-attachments/assets/15faae15-7002-495e-bec0-3de99a0ec820)
+![Figure11_Description](https://github.com/user-attachments/assets/76c1564a-b9b8-4d83-b03e-d53635d86498)
 
 - The source code for the Random Forest and XGBoost classifiers (part of our Galaxies 2024 paper) can be found at: https://github.com/christinaxliu/research/tree/main/JPL-Caltech/GalaxiesPaper2024/HabitableExoplanetClassifiers .
   Below is the feature importance for the Random Forest classifier:
