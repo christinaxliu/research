@@ -3,7 +3,7 @@ This git repository contains the source code for my research projects and work.
 
 At this moment, it contains:
 - Research during summer research internship and year-long research program with the **Jet Propulsion Laboratory (JPL) @ California Institute of Technology**, sponsored by NASA (https://www.caltech.edu/research/jpl).
-- Research project for participating in the **Central Sound Regional Science and Engineering Fair** (CSRSE https://centralsoundfair.org/) and **Washington State Science and Engineering Fair** (WSSE https://wssef.org/).
+- Research project for participating in the **Central Sound Regional Science and Engineering Fair** (CSRSE https://centralsoundfair.org/) and **Washington State Science and Engineering Fair** (WSSEF https://wssef.org/).
 
 
 ### JPL, Caltech (https://github.com/christinaxliu/research/tree/main/JPL-Caltech)
