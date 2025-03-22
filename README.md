@@ -11,7 +11,7 @@ For my research at JPL, Caltech, I applied data science and machine learning (KN
 - Exoplanet classification
 - Exoplanet habitability analysis & prediction
 - Analysis of stellar and planetary parameters that influence habitability
-- Stellar system classification
+- Planetary system classification
 
 The source code for my research work can be found at: https://github.com/christinaxliu/research/tree/main/JPL-Caltech, and the research progress reports can be found at: https://drive.google.com/drive/u/1/folders/1B1dRrJqGsRwMK8p4BuehumHlxLMfq-EP.
 
