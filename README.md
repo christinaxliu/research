@@ -34,4 +34,4 @@ A short paper - Revisiting Seager’s 2013 Habitability Diagram with 2025 Data (
 ### CSRSEF (https://github.com/christinaxliu/research/tree/main/CSRSEF)
 ### WSSEF (https://github.com/christinaxliu/research/tree/main/WSSEF)
 I am working on participating in the CSRSEF and WSSEF with research project - An Analysis of Exoplanet Habitability and Most Influential Stellar and Planetary Parameters to Habitability through the Lens of Machine Learning. Below is the poster for my research project at both CSRSEF and WSSEF:
-![Poster](https://github.com/user-attachments/assets/5431f7a0-b22d-44db-b5a6-26d7525cb22d)
+![WSSEF_2025_Poster](https://github.com/user-attachments/assets/e16ca176-5c6d-4886-9675-276ebbf8bfbd)
