@@ -3,7 +3,7 @@ This git repository contains the source code for my research projects and work.
 
 At this moment, it contains:
 - Research during summer research internship and year-long research program with the **Jet Propulsion Laboratory (JPL) @ California Institute of Technology**, sponsored by NASA (https://www.caltech.edu/research/jpl).
-- Research project for participating in the **Central Sound Regional Science and Engineering Fair** (CSRSEF https://centralsoundfair.org/), and **Washington State Science and Engineering Fair** (WSSEF https://wssef.org/) where I won the **First Place** (Grade 9 - 12th) in the **Physics and Astronomy** category.
+- Research project at the 68th **Washington State Science and Engineering Fair** (WSSEF 2025 https://wssef.org/) where I won the **First Place** (Grade 9 - 12th) in the **Physics and Astronomy** category.
 
 
 ### JPL, Caltech (https://github.com/christinaxliu/research/tree/main/JPL-Caltech)
@@ -31,7 +31,6 @@ A short paper - **Revisiting Seager’s 2013 Habitability Diagram with 2025 Data
 ![Figure1_Description](https://github.com/user-attachments/assets/e8db9c5b-c092-4f74-8d67-b2a3ec40f2ce)
 
 
-### CSRSEF (https://github.com/christinaxliu/research/tree/main/CSRSEF)
 ### WSSEF (https://github.com/christinaxliu/research/tree/main/WSSEF)
 I won the **First Place** (Grade 9 - 12th) of **Physics and Astronomy** category in the 68th [Washington State Science and Engineering Fair](https://wssef.org/) (WSSEF 2025) with my research project - **An Analysis of Exoplanet Habitability and Most Influential Stellar and Planetary Parameters to Habitability through the Lens of Machine Learning**. 
 
