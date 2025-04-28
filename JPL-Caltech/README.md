@@ -20,8 +20,8 @@ Our research findings have been published at ***Galaxies Journal*** on Dec 3rd, 
 A short paper has been submitted to the ***Research Notes of The American Astronomical Society (RNAAS)***. Currently under review:
 - The paper: [**Revisiting Seager’s 2013 Habitability Diagram with 2025 Data**](https://github.com/christinaxliu/research/blob/main/JPL-Caltech/RNAASPaper2025/Revisiting%20Seager%E2%80%99s%202013%20Habitability%20Diagram%20with%202025%20Data.pdf), Christina X. Liu and Jonathan H. Jiang
 - The source code for the "Single Host Star Mass vs. Exoplanet Orbit Semi-Major Axis" figure can be found at: https://github.com/christinaxliu/research/blob/main/JPL-Caltech/Paper2025/StellarMassVsPlanetOrbit_SingleHost.ipynb
-![StellarMassVsPlanetOrbit](https://github.com/user-attachments/assets/5d3bac84-0ad2-4b50-8bf2-50813f55a251)
-![Figure1_Description](https://github.com/user-attachments/assets/b9cd0468-47f5-4501-832e-88ab7b3c8770)
+![StellarMassVsPlanetOrbit](https://github.com/user-attachments/assets/a2b75cc5-9210-4be2-ad71-1abc89a8ce42)
+![Figure1_Description](https://github.com/user-attachments/assets/80cce505-f000-4569-8928-dc9001032ccd)
 
 I participated in the 68th [Washington State Science and Engineering Fair](https://wssef.org/) (WSSEF 2025) with my research project - **An Analysis of Exoplanet Habitability and Most Influential Stellar and Planetary Parameters to Habitability through the Lens of Machine Learning** and won the **First Place** in the **Physics and Astronomy** category (Grade 9 - 12th)
 - [Poster](https://github.com/user-attachments/files/19544574/2025_Poster.pdf):
