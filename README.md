@@ -26,7 +26,7 @@ Our research findings have been published at ***Galaxies Journal*** on Dec 3rd, 
   ![RandomForest-FeatureImportannce](https://github.com/user-attachments/assets/37c8027a-4bd4-496f-b0cc-4413129d086a)
 
 A short paper has been submitted to the ***Research Notes of The American Astronomical Society (RNAAS)***. Currently under review:
-- The paper: [**Revisiting Seager’s 2013 Habitability Diagram with 2025 Data**](https://github.com/christinaxliu/research/blob/main/JPL-Caltech/Paper2025/Revisiting%20Seager%E2%80%99s%202013%20Habitability%20Diagram%20with%202025%20Data.pdf), Christina X. Liu and Jonathan H. Jiang
+- The paper: [**Revisiting Seager’s 2013 Habitability Diagram with 2025 Data**](https://github.com/christinaxliu/research/blob/main/JPL-Caltech/RNAASPaper2025/Revisiting%20Seager%E2%80%99s%202013%20Habitability%20Diagram%20with%202025%20Data.pdf), Christina X. Liu and Jonathan H. Jiang
 - The source code for the "Single Host Star Mass vs. Exoplanet Orbit Semi-Major Axis" figure can be found at: https://github.com/christinaxliu/research/blob/main/JPL-Caltech/Paper2025/StellarMassVsPlanetOrbit_SingleHost.ipynb
 ![StellarMassVsPlanetOrbit](https://github.com/user-attachments/assets/64d201dc-6c91-4516-910c-e8ce126b1c79)
 ![Figure1_Description](https://github.com/user-attachments/assets/e8db9c5b-c092-4f74-8d67-b2a3ec40f2ce)
