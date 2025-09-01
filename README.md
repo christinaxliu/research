@@ -6,7 +6,7 @@ At this moment, it contains:
 - Research project presented at the 68th **Washington State Science and Engineering Fair** (WSSEF 2025 https://wssef.org/) where I won the **First Place** in the **Physics and Astronomy** category (Grade 9 - 12th).
 
 
-### JPL, Caltech (https://github.com/christinaxliu/research/tree/main/JPL-Caltech)
+### JPL, Caltech (https://github.com/christinaxliu/research/tree/main/JPL)
 For my research at JPL, Caltech, I applied data science and machine learning (KNN, Random Forest, XGBoost, Neural Networks) on the following research topics:
 - Exoplanet classification
 - Exoplanet habitability analysis & prediction
