@@ -5,7 +5,6 @@ At this moment, it contains:
 - Research work within [Dr. Jiang](https://science.jpl.nasa.gov/people/jonathan/)'s research group at the [**NASA Jet Propulsion Laboratory (JPL), California Institute of Technology**](https://www.caltech.edu/research/jpl).
 - Research poster presented at [**AstroAI Workshop 2025**](https://astroai.cfa.harvard.edu/workshop/details.html) 
 - Research project participated in the 68th [**Washington State Science and Engineering Fair**](https://wssef.org/) (WSSEF 2025) where I won the **First Place** in the **Physics and Astronomy** category (Grade 9 - 12th).
-- Research project for the [**Regeneron Science Talent Search**](https://www.societyforscience.org/regeneron-sts/) application
 
 ### Research Areas
 
