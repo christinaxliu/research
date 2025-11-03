@@ -28,7 +28,7 @@ Poster Presentations:
 - [**An Analysis of Exoplanet Habitability and Most Influential Stellar and Planetary Parameters to Habitability through the Lens of Machine Learning**](https://github.com/christinaxliu/research/blob/main/WSSEF/WSSEF_2025_ResearchPlan.pdf), Christina X. Liu. [*Washington State Science & Engineering Fair (WSSEF)*](https://wssef.org/) 2025
 
 ### Source Code & Research Reports 
-- Source code: https://github.com/christinaxliu/research/tree/main/JPL
+- Source code: https://github.com/christinaxliu/research
 - Research reports: https://drive.google.com/drive/u/1/folders/1B1dRrJqGsRwMK8p4BuehumHlxLMfq-EP
 
 ### Overview of the RNAAS 2025 Paper ([DOI 10.3847/2515-5172/add46f](https://doi.org/10.3847/2515-5172/add46f))
