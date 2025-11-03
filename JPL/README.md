@@ -12,7 +12,7 @@ I applied data science and machine learning on the following research topics:
 - Planetary system classification
 
 ### Publications && Poster Presentations
-Journal Publications:
+Journal Publications ([Google Scholar Citations](https://scholar.google.com/citations?user=hqWc_kQAAAAJ&hl=en&oi=ao)):
 - [**Revisiting Seager’s 2013 Habitability Diagram with 2025 Data**](https://doi.org/10.3847/2515-5172/add46f), Christina X. Liu and Jonathan H. Jiang. *Research Notes of the American Astronomical Society ([RNAAS](https://journals.aas.org/research-notes/))* 2025, 9 109. [DOI 10.3847/2515-5172/add46f](https://doi.org/10.3847/2515-5172/add46f)
 - [**Analysis of Habitability and Stellar Habitable Zones from Observed Exoplanets**](https://doi.org/10.3390/galaxies12060086), Jonathan H. Jiang, Philip E. Rosen, Christina X. Liu, Qianzhuang Wen, and Yanbei Chen. [*Galaxies*](https://www.mdpi.com/journal/galaxies) 2024, 12, no. 6: 86. [DOI 10.3390/galaxies12060086](https://doi.org/10.3390/galaxies12060086)
 
