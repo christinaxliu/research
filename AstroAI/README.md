@@ -1,0 +1,4 @@
+I applied explainable machine learning technique, [SHAP (SHapley Additive exPlanations)](https://shap.readthedocs.io/en/latest/) on my exoplanet habitability models, not only identifying the most influential stellar/planetary properties for habitability, but also quantitatively understanding how higher/lower values of these properties shift an exoplanet towards or away from habitability. I was invitated to the [*AstroAI Workshop 2025*](https://astroai.cfa.harvard.edu/workshop/details.html) at the Center for Astrophysics | Harvard & Smithsonian (CfA) for a [poster presentation](https://astroai.cfa.harvard.edu/workshop/abstracts/posters/liu.html) of my work.
+
+Below is my poster presented at [*AstroAI Workshop 2025*](https://astroai.cfa.harvard.edu/workshop/details.html):
+<img width="2500" height="1875" alt="AstroAI_2025_Poster" src="https://github.com/user-attachments/assets/c6167e0e-08ca-40f8-a2d1-115e0e27aa35" />
