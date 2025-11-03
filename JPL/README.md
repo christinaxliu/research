@@ -1,31 +1,58 @@
-# research/JPL
-This git repository contains the source code for my research projects and work during my summer research internship and year-long research program with Jet Propulsion Laboratory (JPL), California Institute of Technology (sponsored by NASA) in which I applied data science and machine learning (KNN, Random Forest, XGBoost, Neural Networks) on the following research topics:
+# research
+This repository contains my research work within [Dr. Jiang](https://science.jpl.nasa.gov/people/jonathan/)'s research group at the [**NASA Jet Propulsion Laboratory (JPL), California Institute of Technology**](https://www.caltech.edu/research/jpl)
+
+### Research Areas
+
+I applied data science and machine learning on the following research topics:
+- Exoplant habitability
+  - Explainable AI in exoplanet habitability studies - applying [SHAP (SHapley Additive exPlanations)](https://shap.readthedocs.io/en/latest/) on exoplanet habitability models
+  - Exoplanet habitability machine learning models (KNN, Random Forest, XGBoost, Neural Networks)
+  - Exoplanet habitability analysis
 - Exoplanet classification
-- Exoplanet habitability analysis & prediction
-- Analysis of stellar and planetary parameters that influence habitability
 - Planetary system classification
 
-The source code for my research work can be found at: https://github.com/christinaxliu/research/tree/main/JPL, and the research progress reports can be found at: https://drive.google.com/drive/u/1/folders/1B1dRrJqGsRwMK8p4BuehumHlxLMfq-EP.
+### Publications && Poster Presentations
+Journal Publications:
+- [**Revisiting Seager’s 2013 Habitability Diagram with 2025 Data**](https://doi.org/10.3847/2515-5172/add46f), Christina X. Liu and Jonathan H. Jiang. *Research Notes of the American Astronomical Society ([RNAAS](https://journals.aas.org/research-notes/))* 2025, 9 109. [DOI 10.3847/2515-5172/add46f](https://doi.org/10.3847/2515-5172/add46f)
+- [**Analysis of Habitability and Stellar Habitable Zones from Observed Exoplanets**](https://doi.org/10.3390/galaxies12060086), Jonathan H. Jiang, Philip E. Rosen, Christina X. Liu, Qianzhuang Wen, and Yanbei Chen. [*Galaxies*](https://www.mdpi.com/journal/galaxies) 2024, 12, no. 6: 86. [DOI 10.3390/galaxies12060086](https://doi.org/10.3390/galaxies12060086)
 
-Our research findings have been published at ***Galaxies Journal*** on Dec 3rd, 2024:
-- [**Analysis of Habitability and Stellar Habitable Zones from Observed Exoplanets**](https://doi.org/10.3390/galaxies12060086), Jonathan H. Jiang, Philip E. Rosen, Christina X. Liu, Qianzhuang Wen, and Yanbei Chen. 2024. Galaxies 12, no. 6: 86. https://doi.org/10.3390/galaxies12060086
-- The source code for the "Host Star Effective Temperature vs. Exoplanet Surface Temperature" figure can be found at: https://github.com/christinaxliu/research/tree/main/JPL/GalaxiesPaper2024/StarTempVsExoplanetSurfTempGraph
- ![Figure11](https://github.com/user-attachments/assets/9a087311-2a36-4883-b88e-94e89f0ea670)
-![Figure11_Description](https://github.com/user-attachments/assets/dc54f60b-25bf-48a6-b8bf-2b39e9c6aac0)
+Poster Presentations:
+- [**Analyzing the Impacts of Stellar and Planetary Parameters to Exoplanet Habitability through Machine Learning**](https://astroai.cfa.harvard.edu/workshop/abstracts/posters/liu.html), Christina X. Liu. [*AstroAI Workshop*](https://astroai.cfa.harvard.edu/workshop/details.html) 2025. Center for Astrophysics | Harvard & Smithsonian (CfA)
 
-- The source code for the Random Forest and XGBoost classifiers (part of our Galaxies 2024 paper) can be found at: https://github.com/christinaxliu/research/tree/main/JPL/GalaxiesPaper2024/HabitableExoplanetClassifiers .
-  Below is the feature importance for the Random Forest classifier:
-  ![RandomForest-FeatureImportannce](https://github.com/user-attachments/assets/37c8027a-4bd4-496f-b0cc-4413129d086a)
+### Science Fairs
+- [**An Analysis of Exoplanet Habitability and Most Influential Stellar and Planetary Parameters to Habitability through the Lens of Machine Learning**](https://github.com/christinaxliu/research/blob/main/WSSEF/WSSEF_2025_ResearchPlan.pdf), Christina X. Liu. [*Washington State Science & Engineering Fair (WSSEF)*](https://wssef.org/) 2025
 
-A short paper has been published at the ***Research Notes of The American Astronomical Society (RNAAS)***:
-- The paper: [**Revisiting Seager’s 2013 Habitability Diagram with 2025 Data**](https://doi.org/10.3847/2515-5172/add46f), Christina X. Liu and Jonathan H. Jiang. 2025 Res. Notes AAS 9 109. https://doi.org/10.3847/2515-5172/add46f
-- The source code for the "Single Host Star Mass vs. Exoplanet Orbit Semi-Major Axis" figure can be found at: https://github.com/christinaxliu/research/blob/main/JPL/RNAASPaper2025/StellarMassVsPlanetOrbit_SingleHost.ipynb
+### Source Code & Research Reports 
+- Source code: https://github.com/christinaxliu/research/tree/main/JPL
+- Research reports: https://drive.google.com/drive/u/1/folders/1B1dRrJqGsRwMK8p4BuehumHlxLMfq-EP.
+
+### Overview of the RNAAS 2025 Paper ([DOI 10.3847/2515-5172/add46f](https://doi.org/10.3847/2515-5172/add46f))
+
+We extended Dr. Sara Seager's 2013 habitability diagram with a much larger and more current dataset of 5,834 confirmed exoplanets from the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/). We then further highlighted exoplanet types (Terrestrial, Super-Earth, Neptune-Like, Gas-Giant), scaled data points by planet size, and calculated inner and outer HZ boundaries with a simplified greenhouse-based temperature model.
+
+I solely conducted all the work under supervision of Dr. Jiang. My major work including: (1) performing habitable zone calculations for the substantially larger recent dataset, (2) conducting data analysis and visualization, (3) fitting calculated inner and outer HZ boundaries via regression (ended up with 5th-degree polynomial fits), (4) interpreting findings through astrophysical explanations, (5) writing/revising manuscripts with advisory feedback.
+
 ![StellarMassVsPlanetOrbit](https://github.com/user-attachments/assets/a2b75cc5-9210-4be2-ad71-1abc89a8ce42)
-![Figure1_Description](https://github.com/user-attachments/assets/80cce505-f000-4569-8928-dc9001032ccd)
+<img width="827" height="192" alt="Figure1_Description" src="https://github.com/user-attachments/assets/41350fcd-4699-4c79-af25-2d623471b761" />
 
-I participated in the 68th [Washington State Science and Engineering Fair](https://wssef.org/) (WSSEF 2025) with my research project - **An Analysis of Exoplanet Habitability and Most Influential Stellar and Planetary Parameters to Habitability through the Lens of Machine Learning** and won the **First Place** in the **Physics and Astronomy** category (Grade 9 - 12th)
-- [Poster](https://github.com/user-attachments/files/19544574/2025_Poster.pdf):
-Ramdom Forest and XGBoost classifiers and feature important analysis through SHAP (SHapley Additive exPlanations)
-![2025_Poster](https://github.com/user-attachments/assets/dff38dec-8841-468b-9951-f676ee556454)
-- Research Plan:
-https://github.com/christinaxliu/research/blob/main/WSSEF/WSSEF_2025_ResearchPlan.pdf
+### Overview of the Galaxies 2024 Paper ([DOI 10.3390/galaxies12060086](https://doi.org/10.3390/galaxies12060086))
+
+I participated in a group project on analysis of exoplanet habitability and stellar habitable zones based on data from the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/). 
+
+- I indepently trained Random Forest and XGBoost models to predict exoplanet habitablity based on the combined dataset joined with data from the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/) and the [Habitable Worlds Catalog (HWC)](https://phl.upr.edu/hwc/data). I then conducted feature importance analysis on the models to support and validate our empirical stellar habitable zone formula. Below is the feature importance for the Random Forest model:
+  
+![RandomForest-FeatureImportannce](https://github.com/user-attachments/assets/37c8027a-4bd4-496f-b0cc-4413129d086a)
+
+- I was also solely responsible for the data analysis and graph plotting for the Figure 11 - *Host Star Effective Temperature vs. Exoplanet Surface Temperature*:
+![Figure11](https://github.com/user-attachments/assets/15faae15-7002-495e-bec0-3de99a0ec820)
+<img width="759" height="212" alt="Figure11_Description" src="https://github.com/user-attachments/assets/b712f176-dacd-4593-ae2a-c1315589c07b" />
+
+### Overview of the AstroAI Workshop 2025 Poster ([Abstract](https://astroai.cfa.harvard.edu/workshop/abstracts/posters/liu.html))
+I applied explainable machine learning technique, [SHAP (SHapley Additive exPlanations)](https://shap.readthedocs.io/en/latest/) on my exoplanet habitability models, not only identifying the most influential stellar/planetary properties for habitability, but also quantitatively understanding how higher/lower values of these properties shift an exoplanet towards or away from habitability. I was invitated to the [*AstroAI Workshop 2025*](https://astroai.cfa.harvard.edu/workshop/details.html) at the Center for Astrophysics | Harvard & Smithsonian (CfA) for a poster presentation of my work.
+
+Below is my poster presented at [*AstroAI Workshop 2025*]:
+<img width="2500" height="1875" alt="AstroAI_2025_Poster" src="https://github.com/user-attachments/assets/c6167e0e-08ca-40f8-a2d1-115e0e27aa35" />
+
+
+### Overview of the Project at WSSEF Science Fair
+I won the **First Place** in the **Physics and Astronomy** category (Grade 9 - 12th) in the 68th [Washington State Science & Engineering Fair](https://wssef.org/) (WSSEF 2025) with my research project - [**An Analysis of Exoplanet Habitability and Most Influential Stellar and Planetary Parameters to Habitability through the Lens of Machine Learning**](https://github.com/christinaxliu/research/blob/main/WSSEF/WSSEF_2025_ResearchPlan.pdf).
