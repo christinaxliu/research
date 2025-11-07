@@ -56,3 +56,6 @@ Below is my poster presented at [*AstroAI Workshop 2025*](https://astroai.cfa.ha
 
 ### Overview of the Project at WSSEF Science Fair
 I won the **First Place** in the **Physics and Astronomy** category (Grade 9 - 12th) in the 68th [Washington State Science & Engineering Fair](https://wssef.org/) (WSSEF 2025) with my research project - [**An Analysis of Exoplanet Habitability and Most Influential Stellar and Planetary Parameters to Habitability through the Lens of Machine Learning**](https://github.com/christinaxliu/research/blob/main/WSSEF/WSSEF_2025_ResearchPlan.pdf).
+
+### Overview of the Project at WSSEF Science Fair
+I won the **First Place** in the **Physics and Astronomy** category (Grade 9 - 12th) in the 68th [Washington State Science & Engineering Fair](https://wssef.org/) (WSSEF 2025) with my research project - [**An Analysis of Exoplanet Habitability and Most Influential Stellar and Planetary Parameters to Habitability through the Lens of Machine Learning**](https://github.com/christinaxliu/research/blob/main/WSSEF/WSSEF_2025_ResearchPlan.pdf).
