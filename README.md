@@ -5,6 +5,7 @@ At this moment, it contains:
 - Research work within [Dr. Jiang](https://science.jpl.nasa.gov/people/jonathan/)'s research group at the [**NASA Jet Propulsion Laboratory (JPL), California Institute of Technology**](https://www.caltech.edu/research/jpl).
 - Research poster presented at [**AstroAI Workshop 2025**](https://astroai.cfa.harvard.edu/workshop/details.html) 
 - Research project participated in the 68th [**Washington State Science and Engineering Fair**](https://wssef.org/) (WSSEF 2025) where I won the **First Place** in the **Physics and Astronomy** category (Grade 9 - 12th).
+- Research project submitted to [**Regeneron Science Talent Search**](https://www.societyforscience.org/regeneron-sts/)
 
 ### Research Areas
 
@@ -60,4 +61,9 @@ Below is my poster presented at [*AstroAI Workshop 2025*](https://astroai.cfa.ha
 
 
 ### Overview of the Project at WSSEF Science Fair
-I won the **First Place** in the **Physics and Astronomy** category (Grade 9 - 12th) in the 68th [Washington State Science & Engineering Fair](https://wssef.org/) (WSSEF 2025) with my research project - [**An Analysis of Exoplanet Habitability and Most Influential Stellar and Planetary Parameters to Habitability through the Lens of Machine Learning**](https://github.com/christinaxliu/research/blob/main/WSSEF/WSSEF_2025_ResearchPlan.pdf). 
+I won the **First Place** in the **Physics and Astronomy** category (Grade 9 - 12th) in the 68th [Washington State Science & Engineering Fair](https://wssef.org/) (WSSEF 2025) with my research project - [**An Analysis of Exoplanet Habitability and Most Influential Stellar and Planetary Parameters to Habitability through the Lens of Machine Learning**](https://github.com/christinaxliu/research/blob/main/WSSEF/WSSEF_2025_ResearchPlan.pdf).
+
+### Overview of the Research Project submitted to Regeneron Science Talent Search
+I submitted my research project - [**Applying Explainable AI to Understand How Stellar and Planetary
+Parameters Impact Exoplanet Habitability**](https://github.com/christinaxliu/research/blob/main/STS/STSProjectResearchReport.pdf) to [**Regeneron Science Talent Search**](https://www.societyforscience.org/regeneron-sts/) 2026.
+
