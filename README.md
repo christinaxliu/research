@@ -83,3 +83,8 @@ Parameters Impact Exoplanet Habitability**](https://github.com/christinaxliu/res
 - SHAP force plot for an exoplanet with non-habitable prediction outcome (Random Forest classifier):
   <img width="941" height="114" alt="SHAP_force_plot_negative" src="https://github.com/user-attachments/assets/94eb24d8-93ba-47e3-b716-1193e77555bf" />
 
+- SHAP waterfall plot for an exoplanet with habitable prediction outcome (Random Forest classifier):
+  <img width="1180" height="600" alt="SHAP_waterfall_plot_postive" src="https://github.com/user-attachments/assets/6499dcf6-2d66-4181-bad6-2ccc6fc92c6c" />
+
+- SHAP waterfall plot for an exoplanet with non-habitable prediction outcome (Random Forest classifier):
+  <img width="1242" height="600" alt="SHAP_waterfall_plot_negative" src="https://github.com/user-attachments/assets/07dd29d3-a2d9-4720-8fbd-29c4e397b312" />
