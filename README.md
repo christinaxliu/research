@@ -54,11 +54,10 @@ I participated in a group project on analysis of exoplanet habitability and stel
 <img width="759" height="212" alt="Figure11_Description" src="https://github.com/user-attachments/assets/b712f176-dacd-4593-ae2a-c1315589c07b" />
 
 ### Overview of the AstroAI Workshop 2025 Poster ([Abstract](https://astroai.cfa.harvard.edu/workshop/abstracts/posters/liu.html))
-I applied explainable machine learning technique, [SHAP (SHapley Additive exPlanations)](https://shap.readthedocs.io/en/latest/) on my exoplanet habitability models, not only identifying the most influential stellar/planetary properties for habitability, but also quantitatively understanding how higher/lower values of these properties shift an exoplanet towards or away from habitability. I was invitated to the [*AstroAI Workshop 2025*](https://astroai.cfa.harvard.edu/workshop/details.html) at the Center for Astrophysics | Harvard & Smithsonian (CfA) for a [poster presentation](https://astroai.cfa.harvard.edu/workshop/abstracts/posters/liu.html) of my work.
+I applied explainable machine learning technique, [SHAP (SHapley Additive exPlanations)](https://shap.readthedocs.io/en/latest/) on my exoplanet habitability models, not only identifying the most influential stellar/planetary properties for habitability, but also quantitatively understanding how higher/lower values of these properties shift an exoplanet towards or away from habitability. I was invitated to the [*AstroAI Workshop 2025*](https://astroai.cfa.harvard.edu/workshop/details.html) at the Center for Astrophysics | Harvard & Smithsonian (CfA) for a [poster presentation](https://astroai.cfa.harvard.edu/workshop/abstracts/posters/liu.html) of my work ([Abstract](https://astroai.cfa.harvard.edu/workshop/abstracts/posters/liu.html) | [Poster](https://github.com/christinaxliu/research/blob/main/AstroAI/AstroAI_Poster_2025.pdf)).
 
-Below is my poster presented at [*AstroAI Workshop 2025*](https://astroai.cfa.harvard.edu/workshop/details.html):
-<img width="2500" height="1875" alt="AstroAI_2025_Poster" src="https://github.com/user-attachments/assets/c6167e0e-08ca-40f8-a2d1-115e0e27aa35" />
-
+Below is the abstract of my poster presented at [*AstroAI Workshop 2025*](https://astroai.cfa.harvard.edu/workshop/details.html):
+<img width="1222" height="775" alt="Abstract" src="https://github.com/user-attachments/assets/670ab82b-cbf7-4284-b80d-fa3e67a19bd3" />
 
 ### Overview of the Project at WSSEF Science Fair
 I won the **First Place** in the **Physics and Astronomy** category (Grade 9 - 12th) in the 68th [Washington State Science & Engineering Fair](https://wssef.org/) (WSSEF 2025) with my research project - [**An Analysis of Exoplanet Habitability and Most Influential Stellar and Planetary Parameters to Habitability through the Lens of Machine Learning**](https://github.com/christinaxliu/research/blob/main/WSSEF/WSSEF_2025_ResearchPlan.pdf).
