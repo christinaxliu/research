@@ -65,4 +65,21 @@ I won the **First Place** in the **Physics and Astronomy** category (Grade 9 - 1
 ### Overview of the Research Project submitted to Regeneron Science Talent Search
 I submitted my research project - [**Applying Explainable AI to Understand How Stellar and Planetary
 Parameters Impact Exoplanet Habitability**](https://github.com/christinaxliu/research/blob/main/STS/STSProjectResearchReport.pdf) to [**Regeneron Science Talent Search**](https://www.societyforscience.org/regeneron-sts/) 2026.
+- Data processing, feature engineering, modle training, and SHAP analysis pipelines:
+  <img width="1367" height="486" alt="Pipelines" src="https://github.com/user-attachments/assets/6aa3fe68-f613-4b1d-89e6-5a3ab6df81fc" />
+
+- Feature importance analysis of Random Forest and XGBoost classifiers throuhg SHAP:
+  <img width="2461" height="579" alt="SHAP_FeatureImportantAnalysis" src="https://github.com/user-attachments/assets/15893db8-9bcf-4b42-9de8-a3e726e1a398" />
+
+- SHAP beeswarm plot for Random Forest classifier:
+  <img width="1106" height="497" alt="SHAP_beeswarm" src="https://github.com/user-attachments/assets/f2823ab0-3de0-4434-beb8-75e97b8751c7" />
+
+- SHAP heatmap plot for Random Forest classifier:
+  <img width="1188" height="558" alt="SHAP_heatmap_plot" src="https://github.com/user-attachments/assets/0dd72252-5f27-4c4b-81b1-6f753c0d3248" />
+
+- SHAP force plot for an exoplanet with habitable prediction outcome (Random Forest classifier):
+  <img width="1015" height="116" alt="SHAP_force_plot_positive" src="https://github.com/user-attachments/assets/d569db47-bc54-42c4-a447-112d666b7628" />
+
+- SHAP force plot for an exoplanet with non-habitable prediction outcome (Random Forest classifier):
+  <img width="941" height="114" alt="SHAP_force_plot_negative" src="https://github.com/user-attachments/assets/94eb24d8-93ba-47e3-b716-1193e77555bf" />
 
