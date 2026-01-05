@@ -2,3 +2,6 @@ I applied explainable machine learning technique, [SHAP (SHapley Additive exPlan
 
 Below is the abstract of my poster presented at [*AstroAI Workshop 2025*](https://astroai.cfa.harvard.edu/workshop/details.html):
 <img width="1222" height="775" alt="Abstract" src="https://github.com/user-attachments/assets/3266679f-1425-4926-ad1c-175c521d1fb1" />
+
+Below is my poster presented at [*AstroAI Workshop 2025*](https://astroai.cfa.harvard.edu/workshop/details.html):
+<img width="2500" height="1875" alt="AstroAI_2025_Poster" src="https://github.com/user-attachments/assets/b6e259ff-ed57-4a0f-a532-bdd06c422405" />
