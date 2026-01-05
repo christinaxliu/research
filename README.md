@@ -61,11 +61,11 @@ Below is the my poster presented at [*AstroAI Workshop 2025*](https://astroai.cf
 <img width="2500" height="1875" alt="AstroAI_2025_Poster" src="https://github.com/user-attachments/assets/753c12ed-83ab-4b7d-a4f4-387f891bec05" />
 <br><br>
 
-### Overview of the Project at WSSEF Science Fair
+### Overview of the Project at WSSEF Science Fair 2025
 I won the **First Place** in the **Physics and Astronomy** category (Grade 9 - 12th) in the 68th [Washington State Science & Engineering Fair](https://wssef.org/) (WSSEF 2025) with my research project - [**An Analysis of Exoplanet Habitability and Most Influential Stellar and Planetary Parameters to Habitability through the Lens of Machine Learning**](https://github.com/christinaxliu/research/blob/main/WSSEF/WSSEF_2025_ResearchPlan.pdf).
 <br><br>
 
-### Overview of the Research Project submitted to Regeneron Science Talent Search
+### Overview of the Research Project submitted to Regeneron Science Talent Search 2026
 I submitted my research project - [**Applying Explainable AI to Understand How Stellar and Planetary
 Parameters Impact Exoplanet Habitability**](https://github.com/christinaxliu/research/blob/main/STS/STSProjectResearchReport.pdf) to [**Regeneron Science Talent Search**](https://www.societyforscience.org/regeneron-sts/) 2026.
 
