@@ -17,13 +17,13 @@ I applied data science and machine learning on the following research topics:
 - Exoplanet classification
 - Planetary system classification
 
-### Publications && Poster Presentations
+### Publications & Poster Presentations
 Journal Publications ([Google Scholar Citations](https://scholar.google.com/citations?user=hqWc_kQAAAAJ&hl=en&oi=ao)):
 - [**Revisiting Seager’s 2013 Habitability Diagram with 2025 Data**](https://doi.org/10.3847/2515-5172/add46f), Christina X. Liu and Jonathan H. Jiang. *Research Notes of the American Astronomical Society ([RNAAS](https://journals.aas.org/research-notes/))* 2025, 9 109. [DOI 10.3847/2515-5172/add46f](https://doi.org/10.3847/2515-5172/add46f)
 - [**Analysis of Habitability and Stellar Habitable Zones from Observed Exoplanets**](https://doi.org/10.3390/galaxies12060086), Jonathan H. Jiang, Philip E. Rosen, Christina X. Liu, Qianzhuang Wen, and Yanbei Chen. [*Galaxies*](https://www.mdpi.com/journal/galaxies) 2024, 12, no. 6: 86. [DOI 10.3390/galaxies12060086](https://doi.org/10.3390/galaxies12060086)
 
 Poster Presentations:
-- [**Analyzing the Impacts of Stellar and Planetary Parameters to Exoplanet Habitability through Machine Learning**](https://astroai.cfa.harvard.edu/workshop/abstracts/posters/liu.html), Christina X. Liu. [*AstroAI Workshop*](https://astroai.cfa.harvard.edu/workshop/details.html) 2025. Center for Astrophysics | Harvard & Smithsonian (CfA)
+- [**Analyzing the Impacts of Stellar and Planetary Parameters to Exoplanet Habitability through Machine Learning**](https://astroai.cfa.harvard.edu/workshop/abstracts/posters/liu.html), Christina X. Liu. [*AstroAI Workshop*](https://astroai.cfa.harvard.edu/workshop/details.html) 2025. Center for Astrophysics | Harvard & Smithsonian (CfA). [Poster](https://github.com/christinaxliu/research/blob/main/AstroAI/AstroAI_Poster_2025.pdf)
 
 ### Science Fairs
 - [**An Analysis of Exoplanet Habitability and Most Influential Stellar and Planetary Parameters to Habitability through the Lens of Machine Learning**](https://github.com/christinaxliu/research/blob/main/WSSEF/WSSEF_2025_ResearchPlan.pdf), Christina X. Liu. [*Washington State Science & Engineering Fair (WSSEF)*](https://wssef.org/) 2025
