@@ -1,6 +1,11 @@
 # Research Project submitted to Regeneron Science Talent Search
 I submitted my research project - [**Applying Explainable AI to Understand How Stellar and Planetary
 Parameters Impact Exoplanet Habitability**](https://github.com/christinaxliu/research/blob/main/STS/STSProjectResearchReport.pdf) to [**Regeneron Science Talent Search**](https://www.societyforscience.org/regeneron-sts/) 2026.
+
+Below is the abstract of my research report submitted to STS:
+<img width="817" height="638" alt="Abstract" src="https://github.com/user-attachments/assets/b2d7be34-d4b8-4c73-ad70-09bce811cbc1" />
+
+Some details about my research project:
 - Data processing, feature engineering, modle training, and SHAP analysis pipelines:
   <img width="1367" height="486" alt="Pipelines" src="https://github.com/user-attachments/assets/6aa3fe68-f613-4b1d-89e6-5a3ab6df81fc" />
 
