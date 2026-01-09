@@ -3,9 +3,10 @@ This git repository contains the source code and technical documentations for my
 
 At this moment, it contains:
 - Research work within [Dr. Jiang](https://science.jpl.nasa.gov/people/jonathan/)'s research group at the [**NASA Jet Propulsion Laboratory (JPL), California Institute of Technology**](https://www.caltech.edu/research/jpl).
-- Research [Poster](https://github.com/christinaxliu/research/blob/main/AstroAI/AstroAI_Poster_2025.pdf) presented at [**AstroAI Workshop 2025**](https://astroai.cfa.harvard.edu/workshop/details.html) 
+- Research [Poster](https://github.com/christinaxliu/research/blob/main/AstroAI/AstroAI_Poster_2025.pdf) presented at [**AstroAI Workshop 2025**](https://astroai.cfa.harvard.edu/workshop/details.html)
+- Research project participated in the [**Regeneron Science Talent Search 2026**](https://www.societyforscience.org/regeneron-sts/) - I was named a [**Top 300 Scholar**](https://www.societyforscience.org/regeneron-sts/2026-scholars).
 - Research project participated in the 68th [**Washington State Science and Engineering Fair**](https://wssef.org/) (WSSEF 2025) where I won the **First Place** in the **Physics and Astronomy** category (Grade 9 - 12th).
-- Research project submitted to [**Regeneron Science Talent Search**](https://www.societyforscience.org/regeneron-sts/)
+
 
 ### Research Areas
 
@@ -24,9 +25,6 @@ Journal Publications ([Google Scholar Citations](https://scholar.google.com/cita
 
 Poster Presentations:
 - [**Analyzing the Impacts of Stellar and Planetary Parameters to Exoplanet Habitability through Machine Learning**](https://astroai.cfa.harvard.edu/workshop/abstracts/posters/liu.html), Christina X. Liu. [*AstroAI Workshop*](https://astroai.cfa.harvard.edu/workshop/details.html) 2025. Center for Astrophysics | Harvard & Smithsonian (CfA). [Poster](https://github.com/christinaxliu/research/blob/main/AstroAI/AstroAI_Poster_2025.pdf)
-
-### Science Fairs
-- [**An Analysis of Exoplanet Habitability and Most Influential Stellar and Planetary Parameters to Habitability through the Lens of Machine Learning**](https://github.com/christinaxliu/research/blob/main/WSSEF/WSSEF_2025_ResearchPlan.pdf), Christina X. Liu. [*Washington State Science & Engineering Fair (WSSEF)*](https://wssef.org/) 2025
 
 ### Source Code & Research Reports 
 - Source code: https://github.com/christinaxliu/research
@@ -61,13 +59,13 @@ Below is the my poster presented at [*AstroAI Workshop 2025*](https://astroai.cf
 <img width="2500" height="1875" alt="AstroAI_2025_Poster" src="https://github.com/user-attachments/assets/753c12ed-83ab-4b7d-a4f4-387f891bec05" />
 <br><br>
 
-### Overview of the Project at WSSEF Science Fair 2025
-I won the **First Place** in the **Physics and Astronomy** category (Grade 9 - 12th) in the 68th [Washington State Science & Engineering Fair](https://wssef.org/) (WSSEF 2025) with my research project - [**An Analysis of Exoplanet Habitability and Most Influential Stellar and Planetary Parameters to Habitability through the Lens of Machine Learning**](https://github.com/christinaxliu/research/blob/main/WSSEF/WSSEF_2025_ResearchPlan.pdf).
-<br><br>
-
-### Overview of the Research Project submitted to Regeneron Science Talent Search 2026
-I submitted my research project - [**Applying Explainable AI to Understand How Stellar and Planetary
+### Overview of the Research Project at Regeneron Science Talent Search 2026
+I was named a Top 300 Scholar with my research project - [**Applying Explainable AI to Understand How Stellar and Planetary
 Parameters Impact Exoplanet Habitability**](https://github.com/christinaxliu/research/blob/main/STS/STSProjectResearchReport.pdf) to [**Regeneron Science Talent Search**](https://www.societyforscience.org/regeneron-sts/) 2026.
 
 Below is the abstract of my research report submitted to STS:
 <img width="817" height="638" alt="Abstract" src="https://github.com/user-attachments/assets/b2d7be34-d4b8-4c73-ad70-09bce811cbc1" />
+<br><br>
+
+### Overview of the Project at WSSEF Science Fair 2025
+I won the **First Place** in the **Physics and Astronomy** category (Grade 9 - 12th) in the 68th [Washington State Science & Engineering Fair](https://wssef.org/) (WSSEF 2025) with my research project - [**An Analysis of Exoplanet Habitability and Most Influential Stellar and Planetary Parameters to Habitability through the Lens of Machine Learning**](https://github.com/christinaxliu/research/blob/main/WSSEF/WSSEF_2025_ResearchPlan.pdf).
